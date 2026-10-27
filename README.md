@@ -4,7 +4,7 @@ AssessPrep-style IB practice and assessment app for the **Diploma Programme (DP)
 
 Built with Next.js 14 (App Router), TypeScript, Tailwind CSS, shadcn/ui (Radix), Framer Motion, Zustand and Zod.
 
-**Open it:** https://vyom-gupta-alt.github.io/grade-maxxer/
+**Open it:** https://vyom-gupta-alt.github.io/Grade-maxxer/
 
 Everyone starts fresh: nothing is preloaded, and everything a student does is saved only in their own browser.
 
@@ -17,7 +17,7 @@ You need [Node.js 18 or newer](https://nodejs.org) and [Git](https://git-scm.com
 **Any OS:**
 
 ```bash
-git clone https://github.com/vyom-gupta-alt/grade-maxxer.git
+git clone https://github.com/Vyom-gupta-alt/Grade-maxxer.git
 cd grade-maxxer
 cp .env.example .env.local   # optional: add your own Desmos key
 npm install
